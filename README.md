@@ -12,6 +12,8 @@ For the AES the Crypto.Cipher libraray has been used with a constant key. Source
 
 This program contains 3 examples presenting the function of the code.
 
+Please see one code end result example:
+
 ```
 print("1. example")
 plaintext = "11110000"
