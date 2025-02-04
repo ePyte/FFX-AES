@@ -5,8 +5,11 @@ Source: [NIST site](https://csrc.nist.gov/csrc/media/projects/block-cipher-techn
 
 # Details
 Format preserving means that the encrypted message has the same amount of characters, like the plaintext.
+
 Both of these strings contains only '1' and '0' characters. Radix is 2.
+
 For the AES the Crypto.Cipher libraray has been used with a constant key. Source: [AES CBC-MAC](https://pycryptodome.readthedocs.io/en/latest/src/cipher/modern.html#ccm-mode)
+
 This program contains 3 examples presenting the function of the code.
 
 ```
