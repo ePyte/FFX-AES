@@ -1,5 +1,5 @@
 # About this project
-FFX-AES is a Format preserving, Feistel based encryption method group which also uses AES (Advanced Encryption Standard).
+FFX-AES is a format preserving, Feistel based encryption method group which also uses AES (Advanced Encryption Standard).
 This project is one implementation of this method using python.
 Source: [NIST site](https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/proposed-modes/ffx/ffx-spec.pdf)
 
