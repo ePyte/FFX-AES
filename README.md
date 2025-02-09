@@ -26,10 +26,10 @@ print(plaintext == ffx_1.decrypt())
 
 ```
 1. example
-Encryped message:
+Encrypted message:
 01101101
 1. result
-Decryped message:
+Decrypted message:
 11110000
 True
 ```
