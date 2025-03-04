@@ -16,7 +16,7 @@ For the AES the Crypto.Cipher library has been used with a constant key. Source:
 
 
 # Testing
-1. The test_ffx.py file contains the unittest.
+1. The test_ffx.py file contains the unit test.
     - 3 encryption - decription check
     - 3 exception check
     - 1 subTest of encryption - decription check
